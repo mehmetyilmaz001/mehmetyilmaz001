@@ -3,7 +3,7 @@
 ## Frontend Developer (React)
 
 I am senior frontend developer who has 10+ years of experience.
-Turned user stories into working features by using the technologies HTML, CSS, SASS, JavaScirpt, React and Flutter.
+Turnes user stories into working features by using the technologies HTML, CSS, SASS, JavaScirpt, React and Flutter.
 
 ### Reach out to me
 
